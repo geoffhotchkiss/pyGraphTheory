@@ -1,0 +1,8 @@
+To run the program, run:
+	$ python main_rev.py
+
+Controls:
+	* Clicking draws vertices
+	* Clicking on vertices selects vertices
+	* 'e' draws an edge between two selected vertices
+	* 'spacebar' clears the graph
